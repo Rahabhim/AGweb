@@ -90,3 +90,9 @@ a {
 .my-float{
 	margin-top:16px;
 }
+
+.card{
+  height: 320px;
+  width: auto;
+  max-width: 200px;
+}
